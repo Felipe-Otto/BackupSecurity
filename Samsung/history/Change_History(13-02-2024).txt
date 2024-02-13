@@ -1,0 +1,27 @@
+
+_________________________________________________________
+          Change Report - 13-02-2024 - 18:55:50   
+_________________________________________________________
+
+Korea Database:
+	Update(s):
+		- "Quality Analyst" updated to "Mudei hehe".
+		- "Daniel Lee" updated to "Mudei HEhe".
+	Delete(s):
+		- "John Kim, Software Engineer" deleted.
+		- "Bob Lee, Web Developer" deleted.
+	Insert(s):
+		- "John Kim, Software Engineer" inserted.
+		- "Bob Lee, Web Developer" inserted.
+Total Changes: 5
+
+
+MariaDB Database:
+	Update(s):
+		- "Full-stacker Developer" updated to "Full-stack Developer".
+		- "Sofia Kim" updated to "Sophia Kim".
+	Delete(s):
+		- "Michael Lee, Marketing Specialist" deleted.
+	Insert(s):
+		- "Michael Lee, Marketing Specialist" inserted.
+Total Changes: 4
